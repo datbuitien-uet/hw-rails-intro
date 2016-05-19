@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Modifying RottenPotatoes
 ========================
 
@@ -348,3 +349,6 @@ contents.
 **Please be careful** to use **http** and not **https**, that is, 
 submit `http://your-app.herokuapp.com` **and NOT**
 `https://your-app.herokuapp.com`. 
+=======
+# hw-rails-intro
+>>>>>>> 08bc7621cae4c0ccbf745af332f7e8cb152e1a33
